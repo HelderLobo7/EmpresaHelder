@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline&display=swap');
+
+.espaco {
+    margin-left: 15px;
+}
+
+body{
+    
+}
+
+.col-md-2 {
+
+
+	font: Verdana, sans-serif;
+	
+
+}
+
+.margem-top{
+    padding-top:10px;
+}
+
+.col-md-8 {
+
+	
+	font: Verdana, sans-serif;
+	
+
+}
+
+.nav{
+		height: 8%;
+		overflow:hidden;
+		background-color:#333;
+	}
+
+.nav a{
+		float:left;
+		display: block;
+		color:#f2f2f2;
+		text-align:center;
+		padding: 16px 20px;
+		text-decoration: none;
+	}
+
+.nav a:hover {
+	  	background-color:#D3D3D3;
+	  	color: black;
+	}
+
+.bg{
+    
+    background: url('/imagens/fundo2.jpg');
+    background-size: cover;
+    width: 500px;
+    
+   
+}
+
+.bbg{
+    
+   
+    background-size: cover;
+   background: url('/imagens/fundo3.jpg');
+
+   
+}
+.cor{
+    color: white;
+}
+
+
+.tamanho{
+    width: 100px;
+    height: 100px;
+}
+
+
+
+.h1-link{
+    font-size: 40px;
+    color: black;
+    font-family: 'Fascinate Inline', cursive; 
+}
+
+.h1-theme{
+    font-size: 25px;
+    color: black;
+    font-family: 'Fascinate Inline', cursive; 
+}
+
+.detalhes {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+.criar {
+    border-left: 10px solid grey;
+    font-size: 25px;
+    background-color: #B0C4DE;
+    
+}
+
+
+
+
+
+
+
+
+
+
