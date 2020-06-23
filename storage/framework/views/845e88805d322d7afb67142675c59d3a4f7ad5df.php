@@ -1,0 +1,1 @@
+dwadadadadawdawdawdawdadawdwawdadwadawdadwawdawdawda<?php /**PATH C:\Users\iscre\empresa\resources\views/ola.blade.php ENDPATH**/ ?>
